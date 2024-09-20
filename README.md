@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LLM Models<br>👯 I’m looking to collaborate on Backend Development <br>🤝 I’m looking for help with Deployment of API<br>🌱 I’m currently learning MLOps<br>💬 Ask me about Data and Machines 
+🔭 I’m currently working on LLM Models<br>👯 I’m looking to collaborate on Backend and Fronted Development <br>🤝 I’m looking for help with Deployment of API<br>🌱 I’m currently learning MLOps<br>💬 Ask me about Data and Machines 
 
 
 ## 🌐 Socials:
