@@ -12,12 +12,19 @@
 ![](https://streak-stats.demolab.com/?user=Ayush04H&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush04H&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayush04H&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://github.com/Ayush04H">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush04H&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Ayush04H Trophies" />
+  </a>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ayush04H&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo / GitHub Stats
+<div align="center">
+  <a href="https://github.com/Ayush04H">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Ayush04H&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Ayush04H Contributor Stats" />
+  </a>
+</div>
 
 
 
