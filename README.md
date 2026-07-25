@@ -1,4 +1,4 @@
-#💫 About Me :
+#💫  About Me :
 🔭 I’m currently working on LLM Models<br>👯 I’m looking to collaborate on Fine Tunning Models<br>🤝 I’m looking for help with API Development<br>🌱 I’m currently learning MLOPS<br>💬 Ask me about LLMS and GenAI
 
 
