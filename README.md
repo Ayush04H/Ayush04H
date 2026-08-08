@@ -3,9 +3,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&height=55&lines=🔭+Building+GenAI+%26+LLM+Pipelines...;☁️+Architecting+Distributed+Systems+on+AWS...;🧠+Fine-tuning+Models+%7C+MLOps+Engineering...;⚡+ACES+Coding+Challenge+Finalist!;💡+Ask+me+about+GenAI+%7C+Spring+Boot+%7C+React...;🏐+3x+Gold+Medalist+Volleyball+Player!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&height=55&lines=Building+GenAI+%26+LLM+Pipelines...;Architecting+Distributed+Systems+on+AWS...;Fine-tuning+Models+%7C+MLOps+Engineering...;ACES+Coding+Challenge+Finalist!;Ask+me+about+GenAI+%7C+Spring+Boot+%7C+React...;3x+Gold+Medalist+Volleyball+Player!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -50,7 +48,7 @@
 
 </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="300" alt="Developer Animation GIF"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Animation GIF"/>
     </td>
   </tr>
 </table>
@@ -197,7 +195,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush04H&theme=nord&no-frame=false&no-bg=false&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush04H&theme=darkhub&margin-w=6&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -231,13 +229,10 @@
 ---
 
 <!-- ════════════════ NEW #5: RANDOM DEV FACT ════════════════ -->
-<h2 align="center">⚡ Random Dev Fact</h2>
+<h2 align="center">⚡ Fun Dev Fact</h2>
 
 <div align="center">
-  <img src="https://random-fact-gen.vercel.app/api/fact?category=programming&theme=dark&width=700&fontSize=16&bgColor=0f0c29&textColor=00d4ff&borderColor=302b63" alt="Random Dev Fact" onerror="this.style.display='none'"/>
-
-  <!-- Fallback: always-working quote card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20code%20is%20the%20code%20that%20writes%20itself&author=Ayush" alt="Dev Quote" width="80%"/>
+  <img src="https://readme-facts.vercel.app/api?type=horizontal&theme=dark" alt="Fun Dev Fact" width="80%"/>
 </div>
 
 ---
