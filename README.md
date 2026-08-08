@@ -1,13 +1,22 @@
+<!-- Header Banner / Aesthetic Coding GIF -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ayush!+👋;AI%2FML+%26+Microservices+Developer;Full-Stack+Java+%26+Python+Engineer;Distributed+Systems+%26+AWS+Architect" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding Aesthetic" width="100%" />
+</div>
+
+<!-- Typing Animation Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Ayush!+👋;AI%2FML+%26+Microservices+Developer;Full-Stack+Java+%26+Python+Engineer;Distributed+Systems+%26+AWS+Architect;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <em>Architecting high-performance distributed systems, GenAI data pipelines, and scalable cloud infrastructure.</em>
+  <img src="https://komarev.com/ghpvc/?username=Ayush04H&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br />
 
+<!-- Social & Portfolio Badges -->
 <div align="center">
   <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_3D_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -20,55 +29,80 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Wavy Divider" />
+</div>
+
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **LLM Models, Vector Search, and GenAI Pipelines**
-- ☁️ I’m architecting **Distributed Routing Algorithms (2M+ Nodes) & AWS Infrastructure**
-- 👯 I’m looking to collaborate on **Fine-Tuning Models & Microservice APIs**
-- 🌱 I’m currently learning **Advanced MLOps & LLMOps**
-- 💬 Ask me about **LLMs, GenAI, Spring Boot, React, and AWS**
-- 🌐 Explore my custom 3D Interactive Portfolio: **[Ayush Srivastava | Portfolio](YOUR_PORTFOLIO_LINK_HERE)** *(Replace link here once deployed!)*
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 I’m currently working on <b>LLM Models, Vector Search, and GenAI Pipelines</b></li>
+        <li>☁️ I’m architecting <b>Distributed Routing Algorithms & AWS Infrastructure</b></li>
+        <li>👯 I’m looking to collaborate on <b>Fine-Tuning Models & Microservice APIs</b></li>
+        <li>🌱 I’m currently learning <b>Advanced MLOps & LLMOps</b></li>
+        <li>💬 Ask me about <b>LLMs, GenAI, Spring Boot, React, and AWS</b></li>
+        <li>⚡ Fun fact: <b>I ranked Top 1.1% globally on LeetCode (700+ solved)!</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <!-- Animated Developer GIF -->
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="280" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Trending Tech Stack (Animated Skill Icons)
 
-**Core Engineering & Architecture**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**AI / ML / Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Full-Stack & Cloud Infrastructure**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,nextjs,spring,django,fastapi,flask&theme=dark&perline=11" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,sqlite,aws,azure,firebase,docker,kubernetes,linux&theme=dark&perline=11" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,pandas,opencv,git,github,gitlab,bash,figma,postman&theme=dark&perline=11" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics Dashboard
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <!-- Using highly reliable shion.dev instance instead of rate-limited vercel.app -->
+      <img src="https://github-readme-stats.shion.dev/api?username=Ayush04H&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Ayush's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Ayush04H&theme=radical&hide_border=false" alt="Ayush's Streak" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Ayush04H&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Ayush04H&theme=radical&hide_border=false" alt="Ayush's Streak" width="48%" />
+  <!-- Using highly reliable shion.dev instance instead of rate-limited vercel.app -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush04H&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<br/>
+---
+
+### 🏆 Contributions Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush04H&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+  <!-- Profile Summary Cards works perfectly -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush04H&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 ---
@@ -83,21 +117,12 @@
   </picture>
 </div>
 <div align="center">
-  <em>Note: To make this snake animation work, check out the <a href="https://github.com/Platane/snk">snk GitHub Action</a>.</em>
+  <em>Powered by <a href="https://github.com/Platane/snk">snk GitHub Action</a></em>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-
 <div align="center">
-  <a href="https://github.com/Ayush04H">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayush04H&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Ayush04H Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ayush04H&icon=0&color=0" alt="Profile Views" />
+  <!-- Dynamic Random Quote Animation -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Programming Quote" />
 </div>
