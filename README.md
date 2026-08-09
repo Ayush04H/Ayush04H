@@ -44,7 +44,7 @@
 ┌──────────────────────────────────────────┐
 │  Name     : Ayush Kumar Srivastava       │
 │  Location : Gurgaon, India 🇮🇳           │
-│  Degree   : B.Tech IT  │  CGPA: 8.90    │
+│  Degree   : B.Tech IT  │  CGPA: 8.9     │
 │  College  : BVCE Pune (2021–2025)       │
 ├──────────────────────────────────────────┤
 │  Current  : SDE @ Street Surge          │
